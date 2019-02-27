@@ -3,13 +3,13 @@
   side: left
 
 - title: Elektrokontrollen
-  url: "/elektrokontrollen/"
+  url: "/elektrokontrollen"
   side: left
   dropdown:
   - title: "Hauseigentümer"
     url: "/elektrokontrollen#hauseigentümer"
   - title: "Immobilienverwaltung"
-    url: "/elektrokontrollen#Immobilienverwaltungen"
+    url: "/elektrokontrollen#immobilienverwaltungen"
   - title: "Installationsfirmen"
     url: "/elektrokontrollen#wir-übernehmen-ihre-kontrollen"
 
@@ -32,7 +32,7 @@
 - title: "über Uns"
   url: "/about"
   side: right
-  
+
 
 - title: Blog
   url: "/blog/"
