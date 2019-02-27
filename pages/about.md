@@ -18,11 +18,11 @@ Ganz nach unserem Motto:
 ***kompetent, einfach, persönlich***.
 
 <div class="col-sm-4">
-<ul list-style-type: none;>
+<ul style="list-style-type:none;">
 <li><img src="images/team/1.jpg" class="img-responsive img-circle" alt=""></li>
-<li> **Simon Gasser**</li>
-<li> *Elektro-Sicherheitsberater*</li>
-  <ul class="list-inline">
+<li> <b>Simon Gasser</b></li>
+<li> <i>Elektro-Sicherheitsberater</i></li>
+  <ul style="float: left;">
     <li>
       <a href="mailto:simon@simon-gasser.ch">📧</a>
     </li>
