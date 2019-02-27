@@ -22,7 +22,7 @@ Ganz nach unserem Motto:
 <li><img src="images/team/1.jpg" class="img-responsive img-circle" alt=""></li>
 <li> <b>Simon Gasser</b></li>
 <li> <i>Elektro-Sicherheitsberater</i></li>
-  <ul style="float: left;">
+  <ul style="float: left list-style-type:none;">
     <li>
       <a href="mailto:simon@simon-gasser.ch">📧</a>
     </li>
@@ -41,7 +41,7 @@ Ganz nach unserem Motto:
 <li><img src="images/team/2.jpg" class="img-responsive img-circle" alt=""></li>
 <li> <b>Michael Mächler</b></li>
 <li> <i>Elektro-Sicherheitsberater</i></li>
-  <ul style="float: left;">
+  <ul style="float: left list-style-type:none;">
     <li>
       <a href="mailto:michael@simon-gasser.ch">📧</a>
     </li>
