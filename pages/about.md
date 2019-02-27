@@ -38,9 +38,9 @@ Ganz nach unserem Motto:
 
 <div class="col-sm-4">
 <ul style="list-style-type:none;">
-<li>![Michael Mächler](/images/team/2.jpg)</li>
-<li> **Michael Mächler**</li>
-<li> *Elektro-Sicherheitsberater*</li>
+<li><img src="images/team/2.jpg" class="img-responsive img-circle" alt=""></li>
+<li> <b>Michael Mächler</b></li>
+<li> <i>Elektro-Sicherheitsberater</i></li>
   <ul style="float: left;">
     <li>
       <a href="mailto:michael@simon-gasser.ch">📧</a>
