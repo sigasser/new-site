@@ -16,3 +16,18 @@ So ist es möglich, unsere Kontrollen zielgerichtet, einfach und konstengünstig
 
 Ganz nach unserem Motto:
 ***kompetent, einfach, persönlich***.
+
+
+<li>
+  <ul class="list-inline">
+    <li>
+      <a href="mailto:simon@simon-gasser.ch"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+    </li>
+    <li>
+      <a href="https://www.supersaas.de/schedule/simon_gasser_gmbh/Simon_Gasser">
+       <i class="fa fa-calendar-check-o" aria-hidden="true">
+       </i>
+     </a>
+  </li>
+  </ul>
+</li>
