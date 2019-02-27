@@ -17,17 +17,40 @@ So ist es möglich, unsere Kontrollen zielgerichtet, einfach und konstengünstig
 Ganz nach unserem Motto:
 ***kompetent, einfach, persönlich***.
 
-
-<li>
+<div class="col-sm-4">
+<ul list-style-type: none;>
+<li><img src="images/team/1.jpg" class="img-responsive img-circle" alt=""></li>
+<li> **Simon Gasser**</li>
+<li> *Elektro-Sicherheitsberater*</li>
   <ul class="list-inline">
     <li>
-      <a href="mailto:simon@simon-gasser.ch"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+      <a href="mailto:simon@simon-gasser.ch">📧</a>
     </li>
     <li>
       <a href="https://www.supersaas.de/schedule/simon_gasser_gmbh/Simon_Gasser">
-       <i class="fa fa-calendar-check-o" aria-hidden="true">
-       </i>
+       📅
      </a>
   </li>
   </ul>
 </li>
+</ul>
+</div>
+
+<div class="col-sm-4">
+<ul list-style-type: none;>
+<li>![Michael Mächler](/images/team/2.jpg)</li>
+<li> **Michael Mächler**</li>
+<li> *Elektro-Sicherheitsberater*</li>
+  <ul class="list-inline">
+    <li>
+      <a href="mailto:michael@simon-gasser.ch">📧</a>
+    </li>
+    <li>
+      <a href="https://www.supersaas.de/schedule/simon_gasser_gmbh/Michael_Maechler">
+       📅
+     </a>
+  </li>
+  </ul>
+</li>
+</ul>
+</div>
