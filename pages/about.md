@@ -17,6 +17,7 @@ So ist es möglich, unsere Kontrollen zielgerichtet, einfach und konstengünstig
 Ganz nach unserem Motto:
 ***kompetent, einfach, persönlich***.
 
+<div class="row">
 <div class="col-sm-4">
 <ul style="list-style-type:none;">
 <li><img src="images/team/1.jpg" class="img-responsive img-circle" alt=""></li>
@@ -54,4 +55,5 @@ Ganz nach unserem Motto:
   </ul>
 </li>
 </ul>
+</div>
 </div>
